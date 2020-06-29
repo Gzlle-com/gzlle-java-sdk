@@ -1,6 +1,8 @@
 package com.gzlle.open.sdk.vo.account;
 
-public class CreateRechargeVO {
+import com.gzlle.open.sdk.vo.BaseVO;
+
+public class RechargeApplicationVO extends BaseVO {
     //充值申请唯一ID
     private String id;
     //充值金额(保留两位小数, 最低为0.01, 最高为999999999.99)
