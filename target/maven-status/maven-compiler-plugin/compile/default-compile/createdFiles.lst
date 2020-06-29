@@ -25,9 +25,11 @@ com\gzlle\open\sdk\vo\contract\EmployeeVO.class
 com\gzlle\open\sdk\vo\contract\GetEmployeeVO.class
 com\gzlle\open\sdk\vo\contract\UserTokenVO.class
 com\gzlle\open\sdk\vo\batch\SelectDetailVO.class
+com\gzlle\open\sdk\utils\PropertiesUtils.class
 com\gzlle\open\sdk\vo\token\AccessTokenVO.class
 com\gzlle\open\sdk\dto\batch\SelectDetailDTO.class
 com\gzlle\open\sdk\dto\ContractCallbackDTO.class
+com\gzlle\open\sdk\dto\expense\ImportOrderDTO.class
 com\gzlle\open\sdk\api\ContractCallbackHandler.class
 com\gzlle\open\sdk\exceptions\SignException.class
 com\gzlle\open\sdk\dto\batch\OrderDetailListDTO.class

@@ -20,8 +20,8 @@
         </developer>
     </developers>
     <scm>
-        <url>https://github.com/15580799040/sdk</url>
-        <connection>https://github.com/15580799040/sdk.git</connection>
+        <url>https://github.com/Gzlle-com/gzlle-java-sdk</url>
+        <connection>https://github.com/Gzlle-com/gzlle-java-sdk.git</connection>
         <developerConnection>https://github.com/15580799040</developerConnection>
     </scm>
     <!--发布到maven仓库-->
@@ -129,7 +129,6 @@
                         <!-- java6版本导致javadoc打包编译失败时候，添加-->
                         <configuration>
                             <failOnError>false</failOnError>
-                            <doclint>none</doclint>
                         </configuration>
                     </execution>
                 </executions>
