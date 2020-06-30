@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c197da8c-d857-4955-8569-2388c285ccf5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/account/AccountDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/account/AccountDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/CreateRechargeVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/RechargeApplicationVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/EmployeeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/EmployeeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/contract/ContractsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/contract/ContractsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/EmployeeDTO.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,30 +33,30 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="13" />
-          <entry key="java" value="140" />
+          <entry key="java" value="144" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="13" />
-          <entry key="JAVA" value="140" />
+          <entry key="JAVA" value="144" />
           <entry key="XML" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="114" />
-          <entry key="java" value="5637" />
-          <entry key="txt" value="44" />
-          <entry key="xml" value="171" />
+          <entry key="java" value="5745" />
+          <entry key="txt" value="46" />
+          <entry key="xml" value="205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5637" />
-          <entry key="PLAIN_TEXT" value="158" />
-          <entry key="XML" value="171" />
+          <entry key="JAVA" value="5745" />
+          <entry key="PLAIN_TEXT" value="160" />
+          <entry key="XML" value="205" />
         </counts>
       </usages-collector>
     </session>
@@ -64,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/BatchCallbackDTO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -72,10 +75,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="62" column="5" lean-forward="true" selection-start-line="52" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+            <state relative-caret-position="78">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#1681#1697#0" expanded="true" />
                 <element signature="e#2250#2266#0" expanded="true" />
                 <element signature="e#2701#2717#0" expanded="true" />
@@ -87,19 +89,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/WithdrawCallbackHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/EmployeeDTO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="66" lean-forward="true" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+            <state relative-caret-position="-882">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/auth/AuthDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/WithdrawCallbackHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/HttpUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="17" column="85" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/account/AccountDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="43" column="72" lean-forward="true" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+            <state relative-caret-position="496">
+              <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="30" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1130#1146#0" expanded="true" />
@@ -110,10 +142,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/JumpDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-546">
-              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="624">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -141,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/response/ContractCallbackVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/ContractCallbackVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/ContractCallbackHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/exceptions/SignException.java" />
@@ -177,7 +221,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/OrderDetailListDTO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/TradeOrderDTO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/TradeOrderVO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/withdraw/WithdrawDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/BatchCallbackDTO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/BatchCallbackHandler.java" />
@@ -188,10 +231,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/CreateRechargeDTO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/CreateRechargeVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/HttpUtil.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/WithdrawCallbackHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/RechargeApplicationVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/account/AccountDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/EmployeeDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -217,7 +262,12 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sdk" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -275,26 +325,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.gzlle.open.sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sdks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.gzlle.open.sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sdks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.gzlle.open.sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-              <item name="batch" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
@@ -309,7 +340,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593425891209" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593482298936" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -341,7 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.install">
+  <component name="RunManager" selected="Application.ContractsDemo">
     <configuration name="AuthDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gzlle.open.sdk.auth.AuthDemo" />
       <module name="sdks" />
@@ -443,10 +474,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PropertiesUtils" />
-        <item itemvalue="Application.BeanToMapUtil" />
         <item itemvalue="Application.ContractsDemo" />
         <item itemvalue="Application.AuthDemo" />
+        <item itemvalue="Application.PropertiesUtils" />
+        <item itemvalue="Application.BeanToMapUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +499,7 @@
       <workItem from="1592907647188" duration="23696000" />
       <workItem from="1593306253018" duration="15761000" />
       <workItem from="1593327808011" duration="17766000" />
-      <workItem from="1593419010124" duration="6344000" />
+      <workItem from="1593419010124" duration="11473000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1593394465625</created>
@@ -491,17 +522,24 @@
       <option name="project" value="LOCAL" />
       <updated>1593424501269</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="再次修改">
+      <created>1593425939124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593425939124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144115000" />
+    <option name="totallyTimeSpent" value="149244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -511,7 +549,7 @@
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.22535211" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23535791" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23535791" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -521,7 +559,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.23535791" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286334" />
       <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="Spring" order="15" />
@@ -548,16 +586,10 @@
     <MESSAGE value="第一次" />
     <MESSAGE value="第二次" />
     <MESSAGE value="首次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="首次修改" />
+    <MESSAGE value="再次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="再次修改" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/contract/EmployeeVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/contract/UserTokenVO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -736,13 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/auth/AuthDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -932,13 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/JumpDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/CallbackUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -1108,16 +1126,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/HttpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/expense/ImportOrderDTO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -1142,17 +1150,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-546">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/BatchCallbackDTO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -1216,22 +1217,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/WithdrawCallbackHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="6" column="66" lean-forward="true" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="62" column="5" lean-forward="true" selection-start-line="52" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1681#1697#0" expanded="true" />
-            <element signature="e#2250#2266#0" expanded="true" />
-            <element signature="e#2701#2717#0" expanded="true" />
-            <element signature="e#3143#3159#0" expanded="true" />
-            <element signature="e#3680#3696#0" expanded="true" />
-          </folding>
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -1263,13 +1249,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/account/AccountDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="43" column="72" lean-forward="true" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+        <state relative-caret-position="496">
+          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="30" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1130#1146#0" expanded="true" />
             <element signature="e#1631#1647#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/auth/AuthDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" column="85" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/EmployeeDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-882">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#1681#1697#0" expanded="true" />
+            <element signature="e#2250#2266#0" expanded="true" />
+            <element signature="e#2701#2717#0" expanded="true" />
+            <element signature="e#3143#3159#0" expanded="true" />
+            <element signature="e#3680#3696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/JumpDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
         </state>
       </provider>
     </entry>

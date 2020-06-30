@@ -1,4 +1,4 @@
-package com.gzlle.open.sdk.dto;
+package com.gzlle.open.sdk.dto.contract;
 
 public class EmployeeDTO {
     //姓名

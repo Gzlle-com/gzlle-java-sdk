@@ -1,8 +1,9 @@
 package com.gzlle.open.sdk.contract;
 
 import com.google.gson.Gson;
+import com.gzlle.open.sdk.auth.AuthDemo;
 import com.gzlle.open.sdk.dto.ContractsDTO;
-import com.gzlle.open.sdk.dto.EmployeeDTO;
+import com.gzlle.open.sdk.dto.contract.EmployeeDTO;
 import com.gzlle.open.sdk.dto.ContractCallbackDTO;
 import com.gzlle.open.sdk.exceptions.SignException;
 import com.gzlle.open.sdk.api.ContractCallbackHandler;
@@ -17,7 +18,7 @@ import com.gzlle.open.sdk.vo.contract.EmployeeVO;
 import com.gzlle.open.sdk.vo.contract.GetEmployeeVO;
 import com.gzlle.open.sdk.vo.contract.QueryContractVO;
 import com.gzlle.open.sdk.vo.contract.UserTokenVO;
-
+import com.gzlle.open.sdk.vo.token.AccessTokenVO;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
@@ -146,12 +147,13 @@ public class ContractsDemo {
 
     }
 
-    public static void main(String[] args) throws Exception {
-        EmployeeDTO employee = new EmployeeDTO();
-        employee.setName("chenhao");
-        employee.setPhone("15444848");
-        EmployeeVO employeeVO = ContractsDemo.addEmployee("Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiaW1hZ2luZS1tYWluIiwiaW1hZ2luZS1vcGVuIiwiaW1hZ2luZS1hdXRoIl0sInNjb3BlIjpbInByb2ZpbGUiXSwiZXhwIjoxNTkyODEyMjIxLCJqdGkiOiI2NGUzNzM5OS04NDkwLTQzNDEtYWY4Ny1kMDhjNWNiNWUwNjMiLCJjbGllbnRfaWQiOiIzMDkwMDU4MjU0NTQ2MzcwNTYifQ.vHwVmzoVXQ93rdvFeouZ08L7xQWSw-d9BS_q10dStiB5bEOnroeipk_BOV_E_eHaFHIgWcxHGrBqcZt0l6EM4HKNoLIXjGI5kkKe66iOukv42U14q9SFUQ1j_EO9Rr_qTvhJOwvRBD6d-2TMcrjuscSF4Nwx-ZQVUMzBo3LZY6o7199"
-                , employee, "309005825454637056");
+    public static void main(String[] args)  {
+        AccessTokenVO accessToken = AuthDemo.getAccessToken("309005825454637056", "B5DA273A8DB648BF14A7FAFD5AD874CF");
+        String token="Bearer "+accessToken.getAccessToken();
+        EmployeeDTO employeeDTO=new EmployeeDTO();
+        employeeDTO.setName("chenhao");
+        employeeDTO.setEmployeeNo("151555");
+        EmployeeVO employeeVO = ContractsDemo.addEmployee(token, employeeDTO, "309005825454637056");
         String employeeId = employeeVO.getEmployeeId();
         String extra = employeeVO.getExtra();
         String error = employeeVO.getError();
@@ -160,6 +162,7 @@ public class ContractsDemo {
         System.out.println(extra);
         System.out.println(error);
         System.out.println(message);
+
 
 
     }
