@@ -11,7 +11,6 @@ com\gzlle\open\sdk\vo\withdraw\ListOrderVO.class
 com\gzlle\open\sdk\dto\batch\BatchCallbackDTO.class
 com\gzlle\open\sdk\utils\CallbackUtil.class
 com\gzlle\open\sdk\utils\BeanToMapUtil.class
-com\gzlle\open\sdk\vo\account\CreateRechargeVO.class
 com\gzlle\open\sdk\api\BatchCallbackHandler.class
 com\gzlle\open\sdk\vo\batch\BaseOrdersVO.class
 com\gzlle\open\sdk\dto\batch\TradeOrderDTO.class
@@ -20,7 +19,6 @@ com\gzlle\open\sdk\vo\withdraw\GetOrderVO.class
 com\gzlle\open\sdk\contract\JumpDemo.class
 com\gzlle\open\sdk\vo\batch\GetBalanceVO.class
 com\gzlle\open\sdk\dto\withdraw\OrderDTO.class
-com\gzlle\open\sdk\dto\EmployeeDTO.class
 com\gzlle\open\sdk\vo\contract\EmployeeVO.class
 com\gzlle\open\sdk\vo\contract\GetEmployeeVO.class
 com\gzlle\open\sdk\vo\contract\UserTokenVO.class
@@ -29,7 +27,6 @@ com\gzlle\open\sdk\utils\PropertiesUtils.class
 com\gzlle\open\sdk\vo\token\AccessTokenVO.class
 com\gzlle\open\sdk\dto\batch\SelectDetailDTO.class
 com\gzlle\open\sdk\dto\ContractCallbackDTO.class
-com\gzlle\open\sdk\dto\expense\ImportOrderDTO.class
 com\gzlle\open\sdk\api\ContractCallbackHandler.class
 com\gzlle\open\sdk\exceptions\SignException.class
 com\gzlle\open\sdk\dto\batch\OrderDetailListDTO.class

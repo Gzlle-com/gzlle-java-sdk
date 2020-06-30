@@ -1,8 +1,7 @@
 package com.gzlle.open.sdk.utils;
 
-import com.gzlle.open.sdk.dto.EmployeeDTO;
-import com.gzlle.open.sdk.dto.withdraw.ListOrderDTO;
 
+import com.gzlle.open.sdk.dto.withdraw.ListOrderDTO;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
