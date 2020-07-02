@@ -72,7 +72,7 @@ public class AccountDemo {
     }
 
     //处理回调请求
-    public static void processCallback(HttpServletRequest request, HttpServletResponse response, AccountCallbackHandler accountCallbackHandler, String appKey) {
+    /*public static void processCallback(HttpServletRequest request, HttpServletResponse response, AccountCallbackHandler accountCallbackHandler, String appKey) {
         AccountCallbackDTO accountCallbackDTO = CallbackUtil.parseObject(request, AccountCallbackDTO.class);
         //验证签名合法性
         SortedMap<String, Object> paramters = BeanToMapUtil.beanToMap(accountCallbackDTO);
@@ -107,19 +107,18 @@ public class AccountDemo {
         }
 
 
-    }
+    }*/
     public static void main(String[] args) {
         AccessTokenVO accessToken = AuthDemo.getAccessToken("309005825454637056", "B5DA273A8DB648BF14A7FAFD5AD874CF");
         String token="Bearer "+accessToken.getAccessToken();
         CreateRechargeDTO createRechargeDTO=new CreateRechargeDTO();
-        createRechargeDTO.setAmount("152152");
-        createRechargeDTO.setBank("gygy");
-        createRechargeDTO.setBankName("fgvt");
-        createRechargeDTO.setBankNo("525415");
+        createRechargeDTO.setAmount("15.14");
+        createRechargeDTO.setBank("支付宝");
+        createRechargeDTO.setBankName("陈豪");
+        createRechargeDTO.setBankNo("5254151515");
         createRechargeDTO.setPayImg("gyhg");
         createRechargeDTO.setPayType(1);
-        createRechargeDTO.setPayTime("sf");
-        createRechargeDTO.setRemarks("5415");
+        createRechargeDTO.setPayTime("2010/3/2");
         RechargeApplicationVO recharge = AccountDemo.createRecharge(token, createRechargeDTO, "309005825454637056");
         String remarks = recharge.getRemarks();
         String message = recharge.getMessage();
