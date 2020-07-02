@@ -1,4 +1,4 @@
-package com.gzlle.open.sdk.dto;
+package com.gzlle.open.sdk.dto.contract;
 
 public class ContractsDTO {
     //用户Id, 添加自由职业者接口返回

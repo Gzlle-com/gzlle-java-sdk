@@ -6,7 +6,6 @@ public class SelectBalanceVO extends BaseVO {
     //余额
     private String money;
 
-
     public String getMoney() {
         return money;
     }
@@ -14,6 +13,4 @@ public class SelectBalanceVO extends BaseVO {
     public void setMoney(String money) {
         this.money = money;
     }
-
-
 }
