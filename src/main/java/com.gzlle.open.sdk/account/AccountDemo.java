@@ -23,7 +23,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.LinkedHashMap;
 import java.util.SortedMap;
-
 public class AccountDemo {
     /**
      * 创建充值申请接口
@@ -123,7 +122,7 @@ public class AccountDemo {
         String remarks = recharge.getRemarks();
         String message = recharge.getMessage();
         System.out.println(recharge.getError());
-        System.out.println(remarks);
+        //System.out.println(remarks);
         System.out.println(message);
 
 

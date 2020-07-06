@@ -93,8 +93,7 @@ public class ContractsDemo {
         paramters.put("nonce", SignUtil.buildNonce(32));
         //sign使用SignUtil工具类生成签名
         String sign = SignUtil.createOpenSign(paramters, appKey);
-        System.out.println(sign);
-        System.out.println(paramters);
+        paramters.put("sign", sign);
         LinkedHashMap<String, String> header = new LinkedHashMap<String, String>();
         //添加请求头信息
         header.put("Content-Type", "application/json; charset=UTF-8");

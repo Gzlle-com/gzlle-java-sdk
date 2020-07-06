@@ -28,7 +28,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.LinkedHashMap;
 import java.util.SortedMap;
-
 public class BatchDemo {
     /**
      * 取消订单接口

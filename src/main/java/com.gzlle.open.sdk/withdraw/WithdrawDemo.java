@@ -84,7 +84,7 @@ public class WithdrawDemo {
     }
 
     //处理回调请求
-    /*public static void processCallback(HttpServletRequest request, HttpServletResponse response, WithdrawCallbackHandler withdrawCallbackHandler, String appKey) {
+    public static void processCallback(HttpServletRequest request, HttpServletResponse response, WithdrawCallbackHandler withdrawCallbackHandler, String appKey) {
         WithdrawCallbackDTO withdrawCallbackDTO = CallbackUtil.parseObject(request, WithdrawCallbackDTO.class);
         //验证签名合法性
         SortedMap<String, Object> paramters = BeanToMapUtil.beanToMap(withdrawCallbackDTO);
@@ -119,7 +119,7 @@ public class WithdrawDemo {
         }
 
 
-    }*/
+    }
 
     public static void main(String[] args) {
         AccessTokenVO accessToken = AuthDemo.getAccessToken("309005825454637056", "B5DA273A8DB648BF14A7FAFD5AD874CF");
