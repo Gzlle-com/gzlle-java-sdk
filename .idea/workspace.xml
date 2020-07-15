@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c197da8c-d857-4955-8569-2388c285ccf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1735392383">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="42" />
+          <entry key="project.open.time.0" value="23" />
+          <entry key="project.open.time.1" value="10" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="13" />
+          <entry key="java" value="216" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="13" />
+          <entry key="JAVA" value="216" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="118" />
+          <entry key="java" value="6826" />
+          <entry key="txt" value="94" />
+          <entry key="xml" value="431" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6826" />
+          <entry key="PLAIN_TEXT" value="212" />
+          <entry key="XML" value="431" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/withdraw/WithdrawDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1118">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>charset</find>
+      <find>pass</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/withdraw/GetOrderVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/withdraw/ListOrderVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/withdraw/OrderVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/trade/CancleTradeDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/trade/TradeDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/CancleOrderDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/batch/TradeDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/ListOrdersDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/BaseOrdersVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/ListOrdersVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/OrderDetailVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/GetBalanceVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/SelectDetailDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/BaseDetailVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/SelectDetailVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/CallbackUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/OrderDetailListDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/TradeOrderDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/TradeOrderVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/BatchCallbackDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/BatchCallbackHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/PayOrderDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/expense/ImportOrderDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/PropertiesUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/CreateRechargeDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/CreateRechargeVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/WithdrawCallbackHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/RechargeApplicationVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/BeanToMapUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/ListRecharge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/ListRechargeDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/ListChargeBaseVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/ListChargeVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/ContractCallbackDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/ContractsDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/JumpDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/ContractCallbackHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/AccountCallbackDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/AccountCallbackHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/auth/AuthDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/JumpDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/EmployeeDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/BaseUrlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/withdraw/SelectBalanceVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/NumberUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/batch/BatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/account/AccountDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/withdraw/WithdrawDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven" />
+        <option name="mavenHome" value="C:/maven/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="C:\maven\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="159" />
+    <option name="y" value="28" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.gzlle.open.sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.gzlle.open.sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="withdraw" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594791947508" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gzlle.open.sdk.contract" />
+      <recent name="com.gzlle.open.sdk.domain" />
+      <recent name="com.gzlle.open.sdk.auth" />
+      <recent name="com.gzlle.open.sdk.utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.install">
+    <configuration name="AccountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gzlle.open.sdk.account.AccountDemo" />
+      <module name="sdks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gzlle.open.sdk.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gzlle.open.sdk.auth.AuthDemo" />
+      <module name="sdks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gzlle.open.sdk.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContractsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gzlle.open.sdk.contract.ContractsDemo" />
+      <module name="sdks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gzlle.open.sdk.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gzlle.open.sdk.utils.NumberUtil" />
+      <module name="sdks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gzlle.open.sdk.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithdrawDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gzlle.open.sdk.withdraw.WithdrawDemo" />
+      <module name="sdks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gzlle.open.sdk.withdraw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="deploy" />
+                <option value="-P" />
+                <option value="sonatype-oss-release" />
+                <option value="-Darguments=gpg.passphrase=12345678" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="deploy" />
+                <option value="-P" />
+                <option value="sonatype-oss-release" />
+                <option value="-Darguments=“gpg.passphrase=12345678”" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="in" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="deploy" />
+                <option value="-P" />
+                <option value="release" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+                <option value="-Dmaven.test.skip=true" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="version" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="versions:set" />
+                <option value="-DnewVersion=1.0.3" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.deploy" />
+      <item itemvalue="Maven.install" />
+      <item itemvalue="Maven.Unnamed" />
+      <item itemvalue="Maven.in" />
+      <item itemvalue="Maven.version" />
+      <item itemvalue="Application.AuthDemo" />
+      <item itemvalue="Application.ContractsDemo" />
+      <item itemvalue="Application.AccountDemo" />
+      <item itemvalue="Application.WithdrawDemo" />
+      <item itemvalue="Application.NumberUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContractsDemo" />
+        <item itemvalue="Application.AccountDemo" />
+        <item itemvalue="Application.WithdrawDemo" />
+        <item itemvalue="Application.NumberUtil" />
+        <item itemvalue="Application.AuthDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c197da8c-d857-4955-8569-2388c285ccf5" name="Default Changelist" comment="" />
+      <created>1592619453855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592619453855</updated>
+      <workItem from="1592619455709" duration="17793000" />
+      <workItem from="1592707684330" duration="8951000" />
+      <workItem from="1592787936701" duration="25000" />
+      <workItem from="1592787968647" duration="53750000" />
+      <workItem from="1592907593508" duration="29000" />
+      <workItem from="1592907647188" duration="23696000" />
+      <workItem from="1593306253018" duration="15761000" />
+      <workItem from="1593327808011" duration="17766000" />
+      <workItem from="1593419010124" duration="30938000" />
+      <workItem from="1593573920925" duration="201000" />
+      <workItem from="1593575373297" duration="1452000" />
+      <workItem from="1593583053878" duration="1484000" />
+      <workItem from="1593586329953" duration="389000" />
+      <workItem from="1593586827890" duration="207000" />
+      <workItem from="1593587218733" duration="680000" />
+      <workItem from="1593588259088" duration="173000" />
+      <workItem from="1593589230962" duration="21000" />
+      <workItem from="1593589489404" duration="42000" />
+      <workItem from="1593589754659" duration="225000" />
+      <workItem from="1593590039735" duration="1075000" />
+      <workItem from="1593592374822" duration="913000" />
+      <workItem from="1593596210007" duration="11974000" />
+      <workItem from="1593658156334" duration="94000" />
+      <workItem from="1593658325112" duration="5592000" />
+      <workItem from="1593667028170" duration="16000" />
+      <workItem from="1593669434774" duration="575000" />
+      <workItem from="1593673109276" duration="2112000" />
+      <workItem from="1593768495490" duration="78000" />
+      <workItem from="1594022928998" duration="4453000" />
+      <workItem from="1594085732667" duration="200000" />
+      <workItem from="1594113911554" duration="10230000" />
+      <workItem from="1594261349902" duration="7485000" />
+      <workItem from="1594270225219" duration="1936000" />
+      <workItem from="1594273111950" duration="14000" />
+      <workItem from="1594273262711" duration="119000" />
+      <workItem from="1594273701273" duration="17000" />
+      <workItem from="1594273996683" duration="20000" />
+      <workItem from="1594274650555" duration="2306000" />
+      <workItem from="1594279027804" duration="2362000" />
+      <workItem from="1594281424368" duration="260000" />
+      <workItem from="1594283368962" duration="1610000" />
+      <workItem from="1594286273773" duration="2698000" />
+      <workItem from="1594289218601" duration="55000" />
+      <workItem from="1594290220414" duration="1808000" />
+      <workItem from="1594377877193" duration="335000" />
+      <workItem from="1594791681275" duration="266000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次">
+      <created>1593394465625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593394465625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次">
+      <created>1593411302540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593411302540</updated>
+    </task>
+    <task id="LOCAL-00003" summary="首次修改">
+      <created>1593424501268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593424501269</updated>
+    </task>
+    <task id="LOCAL-00004" summary="再次修改">
+      <created>1593425939124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593425939124</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第三次修改">
+      <created>1593482355694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593482355694</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第四次修改">
+      <created>1593484310409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593484310409</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第五次修改">
+      <created>1593654062992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593654062992</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第6次修改">
+      <created>1593657701464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593657701465</updated>
+    </task>
+    <task id="LOCAL-00009" summary="第7次修改">
+      <created>1594024102833</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594024102833</updated>
+    </task>
+    <task id="LOCAL-00010" summary="第8次修改">
+      <created>1594377939761</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594377939761</updated>
+    </task>
+    <task id="LOCAL-00011" summary="workspace.xml">
+      <created>1594791798376</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594791798376</updated>
+    </task>
+    <task id="LOCAL-00012" summary="workspace.xml">
+      <created>1594791902311</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594791902311</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="232186000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35927504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="JRebel" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.22535211" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.48264644" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.48264644" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3275488" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="10" weight="0.23454158" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次" />
+    <MESSAGE value="第二次" />
+    <MESSAGE value="首次修改" />
+    <MESSAGE value="再次修改" />
+    <MESSAGE value="第三次修改" />
+    <MESSAGE value="第四次修改" />
+    <MESSAGE value="第五次修改" />
+    <MESSAGE value="第6次修改" />
+    <MESSAGE value="第7次修改" />
+    <MESSAGE value="第8次修改" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/CreateRechargeDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="148" column="33" selection-start-line="148" selection-start-column="33" selection-end-line="148" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/protocol/HTTP.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="58" column="61" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/project/imagine-main/src/main/java/com/awaken/imagine/web/controllers/InvoiceBatchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="404" column="9" lean-forward="true" selection-start-line="381" selection-start-column="10" selection-end-line="404" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/expense/ImportOrderDTO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/PayOrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/BaseOrdersVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/batch/ListOrdersVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/ListChargeVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/ListChargeBaseVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/contract/GetEmployeeVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/withdraw/WithdrawCallbackDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/contract/QueryContractVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/withdraw/ListOrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/ListRechargeDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/ContractCallbackDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/ContractsDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/JumpDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/PropertiesUtils.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="113" column="31" lean-forward="true" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/URLEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="204" column="24" lean-forward="true" selection-start-line="204" selection-start-column="24" selection-end-line="204" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/contract/EmployeeVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/BatchCallbackDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/withdraw/OrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/TradeOrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/OrderDetailListDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/batch/ListOrdersDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/contract/EmployeeDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/contract/UserTokenVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/BaseUrlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/CallbackUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/SignUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1208">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/AccountCallbackHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/ContractCallbackHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="66" lean-forward="true" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/WithdrawCallbackHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/BeanToMapUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/token/AccessTokenVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/JumpDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="22" column="71" lean-forward="true" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/auth/AuthDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="22" column="69" lean-forward="true" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/api/BatchCallbackHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/AccountCallbackDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/exceptions/SignException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/account/AccountDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/batch/BatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/withdraw/SelectBalanceVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/utils/NumberUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/vo/account/RechargeApplicationVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/withdraw/WithdrawDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sdks</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
