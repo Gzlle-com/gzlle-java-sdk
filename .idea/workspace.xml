@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c197da8c-d857-4955-8569-2388c285ccf5" name="Default Changelist" comment="" />
+    <list default="true" id="c197da8c-d857-4955-8569-2388c285ccf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +21,14 @@
         <counts>
           <entry key="project.closed" value="42" />
           <entry key="project.open.time.0" value="23" />
-          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="43" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,14 +49,14 @@
         <counts>
           <entry key="dummy" value="118" />
           <entry key="java" value="6826" />
-          <entry key="txt" value="81" />
+          <entry key="txt" value="94" />
           <entry key="xml" value="431" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="6826" />
-          <entry key="PLAIN_TEXT" value="199" />
+          <entry key="PLAIN_TEXT" value="212" />
           <entry key="XML" value="431" />
         </counts>
       </usages-collector>
@@ -65,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="910">
+            <state relative-caret-position="260">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -77,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/withdraw/WithdrawDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1742">
+            <state relative-caret-position="1118">
               <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -210,7 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,13 +259,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594791838573" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594791904898" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -576,6 +578,7 @@
       <workItem from="1594289218601" duration="55000" />
       <workItem from="1594290220414" duration="1808000" />
       <workItem from="1594377877193" duration="335000" />
+      <workItem from="1594791681275" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1593394465625</created>
@@ -647,17 +650,30 @@
       <option name="project" value="LOCAL" />
       <updated>1594377939761</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="workspace.xml">
+      <created>1594791798376</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594791798376</updated>
+    </task>
+    <task id="LOCAL-00012" summary="workspace.xml">
+      <created>1594791902311</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1594791902311</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231920000" />
+    <option name="totallyTimeSpent" value="232186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3555437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35927504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -711,7 +727,8 @@
     <MESSAGE value="第6次修改" />
     <MESSAGE value="第7次修改" />
     <MESSAGE value="第8次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="第8次修改" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/CreateRechargeDTO.java">
@@ -1040,7 +1057,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
+        <state relative-caret-position="260">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1050,7 +1067,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/withdraw/WithdrawDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1742">
+        <state relative-caret-position="1118">
           <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1061,7 +1078,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
