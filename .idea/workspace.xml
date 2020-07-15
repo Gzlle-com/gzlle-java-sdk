@@ -4,57 +4,7 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c197da8c-d857-4955-8569-2388c285ccf5" name="Default Changelist" comment="第7次修改">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/api/BatchCallbackHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/api/BatchCallbackHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/api/ContractCallbackHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/api/ContractCallbackHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/api/WithdrawCallbackHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/api/WithdrawCallbackHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/auth/AuthDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/auth/AuthDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/batch/BatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/batch/BatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/contract/ContractsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/contract/ContractsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/contract/JumpDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/contract/JumpDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/BatchCallbackDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/BatchCallbackDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/CancleOrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/CancleOrderDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/ListOrdersDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/ListOrdersDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/OrderDetailListDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/OrderDetailListDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/PayOrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/PayOrderDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/SelectDetailDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/SelectDetailDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/TradeOrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/batch/TradeOrderDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/withdraw/ListOrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/withdraw/ListOrderDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/withdraw/OrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/withdraw/OrderDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/withdraw/WithdrawCallbackDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/dto/withdraw/WithdrawCallbackDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/exceptions/SignException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/exceptions/SignException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/BeanToMapUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/BeanToMapUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/CallbackUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/CallbackUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/HttpUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/HttpUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/SignUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/SignUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/baseUrlUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/utils/baseUrlUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/BaseVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/BaseVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/CallbackVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/CallbackVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/BaseDetailVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/BaseDetailVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/BaseOrdersVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/BaseOrdersVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/GetBalanceVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/GetBalanceVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/ListOrdersVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/ListOrdersVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/OrderDetailVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/OrderDetailVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/SelectDetailVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/SelectDetailVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/TradeOrderVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/batch/TradeOrderVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/contract/EmployeeVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/contract/EmployeeVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/contract/GetEmployeeVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/contract/GetEmployeeVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/contract/QueryContractVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/contract/QueryContractVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/contract/UserTokenVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/contract/UserTokenVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/token/AccessTokenVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/token/AccessTokenVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/BaseOrderVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/BaseOrderVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/GetOrderVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/GetOrderVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/ListOrderVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/ListOrderVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/OrderVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/OrderVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/SelectBalanceVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/vo/withdraw/SelectBalanceVO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/withdraw/WithdrawDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gzlle/open/sdk/withdraw/WithdrawDemo.class" afterDir="false" />
-    </list>
+    <list default="true" id="c197da8c-d857-4955-8569-2388c285ccf5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,16 +17,16 @@
     <session id="1735392383">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.0" value="23" />
-          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.opened" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,14 +47,14 @@
         <counts>
           <entry key="dummy" value="118" />
           <entry key="java" value="6826" />
-          <entry key="txt" value="80" />
+          <entry key="txt" value="81" />
           <entry key="xml" value="431" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="6826" />
-          <entry key="PLAIN_TEXT" value="198" />
+          <entry key="PLAIN_TEXT" value="199" />
           <entry key="XML" value="431" />
         </counts>
       </usages-collector>
@@ -115,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="910">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -127,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/withdraw/WithdrawDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
+            <state relative-caret-position="1742">
               <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -139,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1126">
-              <caret line="135" column="59" selection-start-line="135" selection-start-column="59" selection-end-line="135" selection-end-column="59" />
+            <state relative-caret-position="234">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -261,7 +211,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,12 +257,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594284955998" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594378122239" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -625,6 +575,7 @@
       <workItem from="1594286273773" duration="2698000" />
       <workItem from="1594289218601" duration="55000" />
       <workItem from="1594290220414" duration="1808000" />
+      <workItem from="1594377877193" duration="335000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1593394465625</created>
@@ -689,16 +640,24 @@
       <option name="project" value="LOCAL" />
       <updated>1594024102833</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第8次修改">
+      <created>1594377939761</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594377939761</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231585000" />
+    <option name="totallyTimeSpent" value="231920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35181236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3555437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -751,7 +710,8 @@
     <MESSAGE value="第五次修改" />
     <MESSAGE value="第6次修改" />
     <MESSAGE value="第7次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="第7次修改" />
+    <MESSAGE value="第8次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第8次修改" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/dto/account/CreateRechargeDTO.java">
@@ -1080,7 +1040,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/contract/ContractsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="910">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1090,7 +1050,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.gzlle.open.sdk/withdraw/WithdrawDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
+        <state relative-caret-position="1742">
           <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1100,8 +1060,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1126">
-          <caret line="135" column="59" selection-start-line="135" selection-start-column="59" selection-end-line="135" selection-end-column="59" />
+        <state relative-caret-position="234">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
