@@ -73,7 +73,7 @@ public class SignUtil {
      * 获取随机字符串
      *
      * @param length
-     * @return
+     * @return nonce
      */
     public static String buildNonce(int length) {
         String charts = "ABCDEFGHJKLMNPQRSTUVWXYZabcdefghjkmnpqrstuvwxyz0123456789";

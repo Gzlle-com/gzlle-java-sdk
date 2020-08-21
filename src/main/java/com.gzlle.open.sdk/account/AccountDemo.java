@@ -7,11 +7,11 @@ import com.gzlle.open.sdk.dto.account.AccountCallbackDTO;
 import com.gzlle.open.sdk.dto.account.CreateRechargeDTO;
 import com.gzlle.open.sdk.dto.account.ListRechargeDTO;
 import com.gzlle.open.sdk.exceptions.SignException;
+import com.gzlle.open.sdk.utils.BaseUrlUtil;
 import com.gzlle.open.sdk.utils.BeanToMapUtil;
 import com.gzlle.open.sdk.utils.CallbackUtil;
 import com.gzlle.open.sdk.utils.HttpUtil;
 import com.gzlle.open.sdk.utils.SignUtil;
-import com.gzlle.open.sdk.utils.BaseUrlUtil;
 import com.gzlle.open.sdk.vo.CallbackVO;
 import com.gzlle.open.sdk.vo.account.ListChargeVO;
 import com.gzlle.open.sdk.vo.account.RechargeApplicationVO;
@@ -24,9 +24,7 @@ import java.io.PrintWriter;
 import java.util.LinkedHashMap;
 import java.util.SortedMap;
 public class AccountDemo {
-    /**
-     * 创建充值申请接口
-     */
+
     public static RechargeApplicationVO createRecharge(String token, CreateRechargeDTO createRechargeDTO, String appKey) {
 
         String url = BaseUrlUtil.API_BASE_URL + "/account/prestore/add";
@@ -44,9 +42,7 @@ public class AccountDemo {
         return new Gson().fromJson(result, RechargeApplicationVO.class);
     }
 
-    /**
-     * 根据充值唯一ID查询单个充值申请接口
-     */
+
     public static RechargeApplicationVO getRecharge(String token, String id) {
         String url = BaseUrlUtil.API_BASE_URL + "/account/prestore/get/" + id;
         LinkedHashMap<String, String> header = new LinkedHashMap<String, String>();
@@ -56,9 +52,7 @@ public class AccountDemo {
 
     }
 
-    /**
-     * 查询充值申请列表接口
-     */
+
     public static ListChargeVO ListCharge(String token, ListRechargeDTO listRechargeDTO) {
         String url = BaseUrlUtil.API_BASE_URL + "/account/prestore/list";
         SortedMap<String, Object> paramters = BeanToMapUtil.beanToMap(listRechargeDTO);
@@ -70,8 +64,8 @@ public class AccountDemo {
         return new Gson().fromJson(result, ListChargeVO.class);
     }
 
-    //处理回调请求
-    /*public static void processCallback(HttpServletRequest request, HttpServletResponse response, AccountCallbackHandler accountCallbackHandler, String appKey) {
+
+    public static void processCallback(HttpServletRequest request, HttpServletResponse response, AccountCallbackHandler accountCallbackHandler, String appKey) {
         AccountCallbackDTO accountCallbackDTO = CallbackUtil.parseObject(request, AccountCallbackDTO.class);
         //验证签名合法性
         SortedMap<String, Object> paramters = BeanToMapUtil.beanToMap(accountCallbackDTO);
@@ -106,7 +100,7 @@ public class AccountDemo {
         }
 
 
-    }*/
+    }
     public static void main(String[] args) {
         AccessTokenVO accessToken = AuthDemo.getAccessToken("309005825454637056", "B5DA273A8DB648BF14A7FAFD5AD874CF");
         String token="Bearer "+accessToken.getAccessToken();
@@ -122,7 +116,7 @@ public class AccountDemo {
         String remarks = recharge.getRemarks();
         String message = recharge.getMessage();
         System.out.println(recharge.getError());
-        //System.out.println(remarks);
+        System.out.println(remarks);
         System.out.println(message);
 
 
