@@ -1,0 +1,26 @@
+-classpath
+'D:/maven/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/maven/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar;D:/maven/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar;D:/maven/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar;D:/maven/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;D:/maven/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/sdks/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/sdks/security-javadoc'
+-docencoding
+'UTF-8'
+-doctitle
+'sdk 1.0.2 API'
+-linkoffline
+'https://docs.oracle.com/javase/6/docs/api' 'D:/sdks/target/javadoc-bundle-options'
+-tag
+"Description:a:功能描述:"
+-use
+-version
+-windowtitle
+'sdk 1.0.2 API'
